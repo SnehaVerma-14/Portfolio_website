@@ -1,5 +1,4 @@
-/* Reset */
-* {
+ * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -12,7 +11,6 @@ body {
   color: #333;
 }
 
-/* Header */
 header {
   background: #222;
   color: white;
@@ -30,7 +28,6 @@ header p {
   color: #bbb;
 }
 
-/* Navigation */
 nav {
   background: #444;
 }
@@ -57,7 +54,6 @@ nav ul li a:hover {
   border-radius: 5px;
 }
 
-/* Section */
 .container {
   max-width: 900px;
   margin: auto;
@@ -79,7 +75,6 @@ h2 {
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
-/* Resume */
 .btn {
   display: inline-block;
   padding: 10px 20px;
@@ -94,7 +89,6 @@ h2 {
   background: #e91e63;
 }
 
-/* Contact Form */
 form {
   display: flex;
   flex-direction: column;
@@ -124,11 +118,10 @@ form button:hover {
   margin-top: 20px;
 }
 
-/* Footer */
 footer {
   text-align: center;
   background: #222;
-  color: white;
+  color: peach;
   padding: 15px;
   margin-top: 30px;
 }
